@@ -16,3 +16,6 @@ Not Working:
 Short Answers would break when it came to characters that HTML writes out weirdly.
 This has been fixed AFAIK. Any issues I may or may not fix, who knows :D
 
+## Installation:
+Set Chrome to Developer Mode then Select "Load Unpacked"
+Select the folder and it gets loaded in! :O

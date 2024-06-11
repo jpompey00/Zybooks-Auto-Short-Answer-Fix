@@ -1,2 +1,18 @@
-# Zybooks-Auto-Short-Answer-Fix
-Slight bug fix from Zybooks Auto Chrome Extension from Prath
+# ZyBooks Automator
+## Extension by Prath: https://chromewebstore.google.com/detail/zybooks-auto/bjkbhcempihbcacfghfmcmabfhehoiao
+## Original Description:
+Simple Chrome Extension to complete ZyBooks participation assignments.
+
+Working Modules:
+* Animations
+* Multiple choice
+* Short answer **NEW!**
+
+Not Working:
+* Drag and drop modules
+
+
+## Fix by Me:
+Short Answers would break when it came to characters that HTML writes out weirdly.
+This has been fixed AFAIK. Any issues I may or may not fix, who knows :D
+
